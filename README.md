@@ -121,7 +121,7 @@ Hadoop streaming é um utilitário nativo que permite criar e executar Map/Reduc
 
 ~~~bash  
 # Criaremos um arquivo no shell com string de geração dos jobs MapReduce. 
-$ touch hadoop-dtreaming.sh
+$ touch hadoop-streaming.sh
 
 # conteúdo do arquivo:
 
@@ -159,7 +159,7 @@ $ bash hadoop-dtreaming.sh
 Concluído! 
 
 
-Consultado o resultado do processamento
+**Consultado o resultado do processamento**
 
 
 ~~~bash
